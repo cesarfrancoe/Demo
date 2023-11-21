@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Concierto de Jazz",
+    "day": 10,
+    "month": "Diciembre",
+    "place": "Auditorio Ciudad",
+    "time": "8:00 PM"
+  },
+  {
+    "name": "Festival de Cine Internacional",
+    "day": 15,
+    "month": "Diciembre",
+    "place": "Centro Cultural",
+    "time": "6:00 PM"
+  },
+  {
+    "name": "Exposición de Arte Moderno",
+    "day": 20,
+    "month": "Diciembre",
+    "place": "Galería de Arte Nuevo",
+    "time": "5:00 PM"
+  }
+]
