@@ -5,26 +5,28 @@
       "name": "Conferencia de tecnología",
       "date": "2023-12-15",
       "place": "Centro de Convenciones",
+      "time": "08:30 AM - 04:00 PM",
+      "description": "Una conferencia sobre las últimas tendencias tecnológicas.",
       "activities": [
         {
           "id": "1",
           "name": "Presentación principal",
-          "time": "09:00",
-          "duration": "01:30",
+          "time": "09:00 AM - 10:30 AM",
+          "description": "Introducción a la conferencia.",
           "place": "Sala A"
         },
         {
           "id": "2",
           "name": "Talleres paralelos",
-          "time": "10:45",
-          "duration": "01:45",
+          "time": "10:45 AM - 12:30 PM",
+          "description": "Sesiones prácticas sobre tecnologías emergentes.",
           "place": "Salas B y C"
         },
         {
           "id": "3",
           "name": "Almuerzo",
-          "time": "12:30",
-          "duration": "01:00",
+          "time": "12:30 PM - 01:30 PM",
+          "description": "Tiempo para el almuerzo y la socialización.",
           "place": "Comedor Principal"
         }
       ]
@@ -34,26 +36,28 @@
       "name": "Feria de arte",
       "date": "2023-11-20",
       "place": "Galería de arte local",
+      "time": "02:00 PM - 05:00 PM",
+      "description": "Exposición de obras de arte y eventos relacionados.",
       "activities": [
         {
           "id": "4",
           "name": "Apertura de la feria",
-          "time": "14:00",
-          "duration": "00:30",
+          "time": "02:00 PM - 02:30 PM",
+          "description": "Ceremonia de apertura de la feria.",
           "place": "Sala de Exposiciones"
         },
         {
           "id": "5",
           "name": "Recorrido de arte",
-          "time": "14:45",
-          "duration": "01:45",
+          "time": "02:45 PM - 04:30 PM",
+          "description": "Visita guiada a las obras de arte.",
           "place": "Galería Principal"
         },
         {
           "id": "6",
           "name": "Clausura",
-          "time": "16:45",
-          "duration": "00:15",
+          "time": "04:45 PM - 05:00 PM",
+          "description": "Ceremonia de clausura de la feria.",
           "place": "Escenario Principal"
         }
       ]
@@ -63,12 +67,14 @@
       "name": "Charla de Autor",
       "date": "2023-09-08",
       "place": "Biblioteca Local",
+      "time": "06:00 PM - 07:30 PM",
+      "description": "Una charla con un autor destacado.",
       "activities": [
         {
           "id": "7",
           "name": "Presentación del Autor",
-          "time": "18:30",
-          "duration": "01:00",
+          "time": "06:30 PM - 07:30 PM",
+          "description": "El autor presenta su último libro.",
           "place": "Salón de Lectura"
         }
       ]
@@ -78,40 +84,42 @@
       "name": "Taller de Programación",
       "date": "2023-10-05",
       "place": "Centro de Aprendizaje",
+      "time": "10:00 AM - 06:45 PM",
+      "description": "Un taller de programación para principiantes y desarrolladores.",
       "activities": [
         {
           "id": "8",
           "name": "Introducción a Python",
-          "time": "10:00",
-          "duration": "02:00",
+          "time": "10:00 AM - 12:00 PM",
+          "description": "Introducción al lenguaje de programación Python.",
           "place": "Aula 101"
         },
         {
           "id": "9",
           "name": "Programación Web",
-          "time": "13:00",
-          "duration": "02:30",
+          "time": "01:00 PM - 03:30 PM",
+          "description": "Desarrollo web con HTML, CSS y JavaScript.",
           "place": "Aula 102"
         },
         {
           "id": "10",
           "name": "Descanso",
-          "time": "15:30",
-          "duration": "00:30",
+          "time": "03:30 PM - 04:00 PM",
+          "description": "Tiempo de descanso y refrigerio.",
           "place": "Área de descanso"
         },
         {
           "id": "11",
           "name": "Desarrollo de Apps",
-          "time": "16:00",
-          "duration": "02:15",
+          "time": "04:00 PM - 06:15 PM",
+          "description": "Creación de aplicaciones móviles.",
           "place": "Aula 103"
         },
         {
           "id": "12",
           "name": "Cierre del Taller",
-          "time": "18:30",
-          "duration": "00:15",
+          "time": "06:30 PM - 06:45 PM",
+          "description": "Cierre y conclusiones del taller.",
           "place": "Sala de Conferencias"
         }
       ]
