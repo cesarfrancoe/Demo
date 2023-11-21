@@ -1,0 +1,120 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Conferencia de tecnología",
+      "date": "2023-12-15",
+      "location": "Centro de Convenciones",
+      "activities": [
+        {
+          "id": "1",
+          "name": "Presentación principal",
+          "time": "09:00",
+          "duration": "01:30",
+          "location": "Sala A"
+        },
+        {
+          "id": "2",
+          "name": "Talleres paralelos",
+          "time": "10:45",
+          "duration": "01:45",
+          "location": "Salas B y C"
+        },
+        {
+          "id": "3",
+          "name": "Almuerzo",
+          "time": "12:30",
+          "duration": "01:00",
+          "location": "Comedor Principal"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Feria de arte",
+      "date": "2023-11-20",
+      "location": "Galería de arte local",
+      "activities": [
+        {
+          "id": "4",
+          "name": "Apertura de la feria",
+          "time": "14:00",
+          "duration": "00:30",
+          "location": "Sala de Exposiciones"
+        },
+        {
+          "id": "5",
+          "name": "Recorrido de arte",
+          "time": "14:45",
+          "duration": "01:45",
+          "location": "Galería Principal"
+        },
+        {
+          "id": "6",
+          "name": "Clausura",
+          "time": "16:45",
+          "duration": "00:15",
+          "location": "Escenario Principal"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Charla de Autor",
+      "date": "2023-09-08",
+      "location": "Biblioteca Local",
+      "activities": [
+        {
+          "id": "7",
+          "name": "Presentación del Autor",
+          "time": "18:30",
+          "duration": "01:00",
+          "location": "Salón de Lectura"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Taller de Programación",
+      "date": "2023-10-05",
+      "location": "Centro de Aprendizaje",
+      "activities": [
+        {
+          "id": "8",
+          "name": "Introducción a Python",
+          "time": "10:00",
+          "duration": "02:00",
+          "location": "Aula 101"
+        },
+        {
+          "id": "9",
+          "name": "Programación Web",
+          "time": "13:00",
+          "duration": "02:30",
+          "location": "Aula 102"
+        },
+        {
+          "id": "10",
+          "name": "Descanso",
+          "time": "15:30",
+          "duration": "00:30",
+          "location": "Área de descanso"
+        },
+        {
+          "id": "11",
+          "name": "Desarrollo de Apps",
+          "time": "16:00",
+          "duration": "02:15",
+          "location": "Aula 103"
+        },
+        {
+          "id": "12",
+          "name": "Cierre del Taller",
+          "time": "18:30",
+          "duration": "00:15",
+          "location": "Sala de Conferencias"
+        }
+      ]
+    }
+  ]
+}
