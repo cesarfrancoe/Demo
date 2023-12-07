@@ -1,20 +1,139 @@
 [
   {
-    "name": "Concierto de Jazz",
-    "date": "2023-11-21",
-    "place": "Auditorio Ciudad",
-    "time": "8:00 PM"
+    "id": "1",
+    "name": "Conferencia de tecnología",
+    "date": "2023-11-15",
+    "place": "Centro de Convenciones",
+    "time": "08:30 AM - 04:00 PM",
+    "description": "Una conferencia sobre las últimas tendencias tecnológicas.",
+    "activities": [
+      {
+        "id": "1",
+        "name": "Presentación principal",
+        "date": "2023-11-15",
+        "time": "09:00 AM - 10:30 AM",
+        "description": "Introducción a la conferencia.",
+        "place": "Sala A"
+      },
+      {
+        "id": "2",
+        "name": "Talleres paralelos",
+        "date": "2023-11-16",
+        "time": "10:45 AM - 12:30 PM",
+        "description": "Sesiones prácticas sobre tecnologías emergentes.",
+        "place": "Salas B y C"
+      },
+      {
+        "id": "3",
+        "name": "Almuerzo",
+        "date": "2023-11-16",
+        "time": "12:30 PM - 01:30 PM",
+        "description": "Tiempo para el almuerzo y la socialización.",
+        "place": "Comedor Principal"
+      }
+    ]
   },
   {
-    "name": "Festival de Cine Internacional",
-    "date": "2023-12-03",
-    "place": "Centro Cultural",
-    "time": "6:00 PM"
+    "id": "2",
+    "name": "Feria de arte",
+    "date": "2023-12-01",
+    "place": "Galería de arte local",
+    "time": "02:00 PM - 05:00 PM",
+    "description": "Exposición de obras de arte y eventos relacionados.",
+    "activities": [
+      {
+        "id": "4",
+        "name": "Apertura de la feria",
+        "date": "2023-12-01",
+        "time": "02:00 PM - 02:30 PM",
+        "description": "Ceremonia de apertura de la feria.",
+        "place": "Sala de Exposiciones"
+      },
+      {
+        "id": "5",
+        "name": "Recorrido de arte",
+        "date": "2023-12-02",
+        "time": "02:45 PM - 04:30 PM",
+        "description": "Visita guiada a las obras de arte.",
+        "place": "Galería Principal"
+      },
+      {
+        "id": "6",
+        "name": "Clausura",
+        "date": "2023-12-03",
+        "time": "04:45 PM - 05:00 PM",
+        "description": "Ceremonia de clausura de la feria.",
+        "place": "Escenario Principal"
+      }
+    ]
   },
   {
-    "name": "Exposición de Arte Moderno",
-    "date": "2023-12-12",
-    "place": "Galería de Arte Nuevo",
-    "time": "5:00 PM"
+    "id": "3",
+    "name": "Charla de Autor",
+    "date": "2023-12-02",
+    "place": "Biblioteca Local",
+    "time": "06:00 PM - 07:30 PM",
+    "description": "Una charla con un autor destacado.",
+    "activities": [
+      {
+        "id": "7",
+        "name": "Presentación del Autor",
+        "date": "2023-12-02",
+        "time": "06:30 PM - 07:30 PM",
+        "description": "El autor presenta su último libro.",
+        "place": "Salón de Lectura"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Taller de Programación",
+    "date": "2023-12-10",
+    "place": "Centro de Aprendizaje",
+    "time": "10:00 AM - 06:45 PM",
+    "description": "Un taller de programación para principiantes y desarrolladores.",
+    "activities": [
+      {
+        "id": "8",
+        "name": "Introducción a Python",
+        "date": "2023-12-10",
+        "time": "10:00 AM - 12:00 PM",
+        "description": "Introducción al lenguaje de programación Python.",
+        "place": "Aula 101"
+      },
+      {
+        "id": "9",
+        "name": "Programación Web",
+        "date": "2023-12-11",
+        "time": "01:00 PM - 03:30 PM",
+        "description": "Desarrollo web con HTML, CSS y JavaScript.",
+        "place": "Aula 102"
+      },
+      {
+        "id": "10",
+        "name": "Descanso",
+        "date": "2023-12-12",
+        "time": "03:30 PM - 04:00 PM",
+        "description": "Tiempo de descanso y refrigerio.",
+        "place": "Área de descanso"
+      },
+      {
+        "id": "11",
+        "name": "Desarrollo de Apps",
+        "date": "2023-12-12",
+        "time": "04:00 PM - 06:15 PM",
+        "description": "Creación de aplicaciones móviles.",
+        "place": "Aula 103"
+      },
+      {
+        "id": "12",
+        "name": "Cierre del Taller",
+        "date": "2023-12-13",
+        "time": "06:30 PM - 06:45 PM",
+        "description": "Cierre y conclusiones del taller.",
+        "place": "Sala de Conferencias"
+      }
+    ]
   }
 ]
+
