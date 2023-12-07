@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Concierto de Jazz",
+    "date": "2023-11-21",
+    "place": "Auditorio Ciudad",
+    "time": "8:00 PM"
+  },
+  {
+    "name": "Festival de Cine Internacional",
+    "date": "2023-12-03",
+    "place": "Centro Cultural",
+    "time": "6:00 PM"
+  },
+  {
+    "name": "Exposición de Arte Moderno",
+    "date": "2023-12-12",
+    "place": "Galería de Arte Nuevo",
+    "time": "5:00 PM"
+  }
+]
