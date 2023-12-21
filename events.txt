@@ -13,7 +13,8 @@
         "date": "2023-11-15",
         "time": "09:00 AM - 10:30 AM",
         "description": "Introducción a la conferencia.",
-        "place": "Sala A"
+        "place": "Sala A",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "2",
@@ -21,7 +22,8 @@
         "date": "2023-11-16",
         "time": "10:45 AM - 12:30 PM",
         "description": "Sesiones prácticas sobre tecnologías emergentes.",
-        "place": "Salas B y C"
+        "place": "Salas B y C",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "3",
@@ -29,7 +31,8 @@
         "date": "2023-11-16",
         "time": "12:30 PM - 01:30 PM",
         "description": "Tiempo para el almuerzo y la socialización.",
-        "place": "Comedor Principal"
+        "place": "Comedor Principal",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       }
     ]
   },
@@ -47,7 +50,8 @@
         "date": "2023-12-01",
         "time": "02:00 PM - 02:30 PM",
         "description": "Ceremonia de apertura de la feria.",
-        "place": "Sala de Exposiciones"
+        "place": "Sala de Exposiciones",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "5",
@@ -55,7 +59,8 @@
         "date": "2023-12-02",
         "time": "02:45 PM - 04:30 PM",
         "description": "Visita guiada a las obras de arte.",
-        "place": "Galería Principal"
+        "place": "Galería Principal",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "6",
@@ -63,7 +68,8 @@
         "date": "2023-12-03",
         "time": "04:45 PM - 05:00 PM",
         "description": "Ceremonia de clausura de la feria.",
-        "place": "Escenario Principal"
+        "place": "Escenario Principal",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       }
     ]
   },
@@ -81,7 +87,8 @@
         "date": "2023-12-02",
         "time": "06:30 PM - 07:30 PM",
         "description": "El autor presenta su último libro.",
-        "place": "Salón de Lectura"
+        "place": "Salón de Lectura",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       }
     ]
   },
@@ -99,7 +106,8 @@
         "date": "2023-12-10",
         "time": "10:00 AM - 12:00 PM",
         "description": "Introducción al lenguaje de programación Python.",
-        "place": "Aula 101"
+        "place": "Aula 101",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "9",
@@ -107,7 +115,8 @@
         "date": "2023-12-11",
         "time": "01:00 PM - 03:30 PM",
         "description": "Desarrollo web con HTML, CSS y JavaScript.",
-        "place": "Aula 102"
+        "place": "Aula 102",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "10",
@@ -115,7 +124,8 @@
         "date": "2023-12-12",
         "time": "03:30 PM - 04:00 PM",
         "description": "Tiempo de descanso y refrigerio.",
-        "place": "Área de descanso"
+        "place": "Área de descanso",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "11",
@@ -123,7 +133,8 @@
         "date": "2023-12-12",
         "time": "04:00 PM - 06:15 PM",
         "description": "Creación de aplicaciones móviles.",
-        "place": "Aula 103"
+        "place": "Aula 103",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       },
       {
         "id": "12",
@@ -131,7 +142,8 @@
         "date": "2023-12-13",
         "time": "06:30 PM - 06:45 PM",
         "description": "Cierre y conclusiones del taller.",
-        "place": "Sala de Conferencias"
+        "place": "Sala de Conferencias",
+        "image" : "https://1.bp.blogspot.com/-fsKW9prLsK0/U1ydEKjN5vI/AAAAAAAAD5g/HTWNSs7adjI/s1600/resized_650x365_origimage_502443.jpg"
       }
     ]
   }
